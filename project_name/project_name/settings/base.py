@@ -33,7 +33,7 @@ TEMPLATE_DEBUG = DEBUG
 ########## MANAGER CONFIGURATION
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#admins
 ADMINS = (
-    ('Your Name', 'your_email@example.com'),
+    ('Douglas Miranda', 'douglasmirandasilva@gmail.com'),
 )
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#managers
@@ -180,6 +180,7 @@ DJANGO_APPS = (
     # 'django.contrib.humanize',
 
     # Admin panel and documentation:
+    'bootstrap_admin'
     'django.contrib.admin',
     # 'django.contrib.admindocs',
 )
