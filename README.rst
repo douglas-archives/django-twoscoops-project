@@ -2,6 +2,8 @@
 django-twoscoops-project
 ========================
 
+NOTE: this is my version, so some changes were made to fill my needs
+
 A project template for Django 1.5.
 
 To use this project follow these steps:
