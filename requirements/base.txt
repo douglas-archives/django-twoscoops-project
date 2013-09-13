@@ -1,7 +1,8 @@
-Django==1.5.1
-bootstrap-admin==0.2.1
+Django==1.5.3
+bootstrap-admin==0.2.2
 bpython==0.12
-django-braces==0.2.1
-django-model-utils==1.1.0
+django-braces==1.2.2
+django-extra-views==0.6.3
+django-model-utils==1.4.0
 logutils==0.3.3
-South==0.7.6
+South==0.8.1
